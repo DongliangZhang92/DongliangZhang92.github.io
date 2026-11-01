@@ -17,7 +17,7 @@ I approach these questions with theoretical tools from chemical reaction network
 * the energy cost of spatial positioning via Turing patterns;
 * dynamical and energetic design principles of ATP-driven molecular machines;
 * the mechanism and energetic principles of active self-organization of cytoskeletal filaments, as in spindle assembly;
-* how dissipation at small scales drives large-scale dynamics, and how much the energy cost is.
+* how and how much free energy is dissipated at small scales to drive large-scale dynamics.
 
 Feel free to reach out if you are interested in my research!
 
