@@ -15,7 +15,7 @@ I approach these questions with theoretical tools from chemical reaction network
 
 * the energy cost and design principles of biological clock synchronization;
 * the energy cost of spatial positioning via Turing patterns;
-* dynamical and energetic design principles of molecular machines;
+* dynamical and energetic design principles of ATP-driven molecular machines;
 * how protein filaments (such as microtubules) self-organize into ordered functional structures (such as the spindle) by burning ATP, and how much the corresponding energy cost is;
 * how dissipation at small scales drives large-scale dynamics, and how much the energy cost is.
 
