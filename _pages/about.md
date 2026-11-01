@@ -16,7 +16,7 @@ I approach these questions with theoretical tools from chemical reaction network
 * the energy cost and design principles of biological clock synchronization;
 * the energy cost of spatial positioning via Turing patterns;
 * dynamical and energetic design principles of ATP-driven molecular machines;
-* how protein filaments (such as microtubules) self-organize into ordered functional structures (such as the spindle) by burning ATP, and how much the corresponding energy cost is;
+* the mechanism and energetic principles of active self-organization of cytoskeletal filaments, as in spindle assembly;
 * how dissipation at small scales drives large-scale dynamics, and how much the energy cost is.
 
 Feel free to reach out if you are interested in my research!
