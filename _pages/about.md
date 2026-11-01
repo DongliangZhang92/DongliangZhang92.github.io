@@ -24,7 +24,7 @@ Feel free to reach out if you are interested in my research!
 Selected publications
 ======
 * **D. Zhang**, Y. Cao, Q. Ouyang, Y. Tu. Altruistic resource-sharing mechanism for synchronization: The energy-speed-accuracy tradeoff. *Physical Review Letters* 135, 037401 (2025).
-* X. Han, **D. Zhang**, et al. A cooperative switch within the KaiC hexamer revealed by cryo-EM. *Nature Communications* 14, 5907 (2023).
+* X. Han, **D. Zhang**, et al. Determining subunit-subunit interaction from statistics of cryo-EM images: observation of nearest-neighbor coupling in a circadian clock protein complex. *Nature Communications* 14, 5907 (2023).
 * Q. Yu, **D. Zhang**, Y. Tu. Inverse power law scaling of energy dissipation rate in nonequilibrium reaction networks. *Physical Review Letters* 126, 080601 (2021).
 * **D. Zhang**, Y. Cao, Q. Ouyang, Y. Tu. The energy cost and optimal design for synchronization of coupled molecular oscillators. *Nature Physics* 16, 95–100 (2020).
 
