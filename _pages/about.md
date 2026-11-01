@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is Dongliang Zhang (张东良), and I am a postdoc at the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/) (MPI-PKS). I obtained my Ph.D. from Peking University in 2020 under the co-supervision of Dr. Qi Ouyang and Dr. Yuhai Tu. I joined MPI-PKS in September 2024; before that, I worked as a postdoctoral researcher at Peking University and Tsinghua University.
 
-My research seeks to uncover the mechanisms and design principles underlying biological information processing and active structure formation, which carry out biological functions across scales. Answering these biological questions from a physical perspective can shed light on how collective behavior emerges from local interactions among individuals that continuously burn (energetic or informational) fuel.
+My research seeks to uncover the mechanisms and design principles underlying biological information processing and active structure formation, which carry out biological functions across scales with high accuracy. Answering these biological questions from a physical perspective can shed light on how collective behavior emerges from local interactions among individuals that continuously burn (energetic or informational) fuel.
 
 I approach these questions with theoretical tools from chemical reaction network theory, stochastic thermodynamics, and active matter. My research topics include, but are not limited to:
 
