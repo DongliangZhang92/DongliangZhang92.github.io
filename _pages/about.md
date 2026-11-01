@@ -11,7 +11,7 @@ Hi! My name is Dongliang Zhang (张东良), and I am a postdoc at the [Max Planc
 
 My research seeks to uncover the mechanisms and design principles underlying biological information processing and active structure formation, which carry out biological functions across scales with high accuracy. Answering these biological questions from a physical perspective can shed light on how collective behavior emerges from local interactions among individuals that continuously burn (energetic or informational) fuel.
 
-I approach these questions with theoretical tools from chemical reaction network theory, stochastic thermodynamics, and active matter. I also work closely with experimentalists to test theoretical predictions and to extract physical insight from experimental data. My research topics include, but are not limited to:
+I approach these questions with theoretical tools from chemical reaction network theory, stochastic thermodynamics, and active matter theory. I also work closely with experimentalists to test theoretical predictions and to extract physical insight from experimental data. My research topics include, but are not limited to:
 
 * the energy cost and design principles of biological clock synchronization;
 * the energy cost of spatial positioning via Turing patterns;
