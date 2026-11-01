@@ -23,7 +23,7 @@ repository               : "DongliangZhang92/DongliangZhang92.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dongliang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at MPI-PKS. Physics of living systems, nonequilibrium thermodynamics, synchronization."
