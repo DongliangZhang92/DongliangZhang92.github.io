@@ -16,8 +16,8 @@ Education
 * Ph.D. in Biophysics and Condensed Matter Physics, Peking University, 2020
   * Thesis: *Nonequilibrium thermodynamics for information processing in living systems*
   * Advisors: Qi Ouyang and Yuhai Tu
-* B.A. in Physics, Peking University, 2015
-* B.A. in Psychology (double degree), Peking University, 2015
+* B.Sc. in Physics, Peking University, 2015
+* B.Sc. in Psychology (double degree), Peking University, 2015
 
 Research experience
 ======
